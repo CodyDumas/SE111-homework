@@ -1,0 +1,61 @@
+
+#fixcopypastefrionmac
+
+body {
+    background-color: #a9b8c6;
+    font-family: Arial, sans-serif;
+}
+
+#wrapper {
+    width: 900px;
+    margin: auto;
+    background-color: #d3dde6;
+    padding: 10px;
+}
+
+.border-unity {
+    border: 2px solid black;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#header {
+    text-align: center;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.link-button {
+    margin: 0 10px;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#main-content {
+    min-height: 400px;
+}
+
+#footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+#contact, #social {
+    width: 45%;
+}
+
+.foot-img {
+    margin: 5px;
+}
+
+.social-link {
+    text-decoration: none;
+}
+
+.got {
+    font-family: "Times New Roman", serif;
+    letter-spacing: 2px;
+}
