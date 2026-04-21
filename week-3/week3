@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+#codydumas 
+#notes- github on desktop not working SUBMIT IN CLASS PLEASE
+#change westeros to right name mispell in this version 
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Contact | Westeros</title>
+    <link rel="stylesheet" href="westeros.css">
+</head>
+
+<body>
+
+<div id="wrapper">
+
+    <div id="header" class="border-unity">
+        <h1 class="got">Contact Westeros</h1>
+    </div>
+
+    <div id="nav-bar" class="border-unity">
+        <div class="btn-container">
+            <a href="index.html" class="link-button">Home</a>
+            <a href="history.html" class="link-button">History</a>
+            <a href="visit.html" class="link-button">Visit</a>
+            <a href="contact.html" class="link-button">Contact</a>
+        </div>
+    </div>
+
+    <div id="main-content" class="border-unity">
+
+        <h2 class="got">Get in Touch</h2>
+
+        <p>Email: raven@westeros.com</p>
+        <p>Location: King's Landing</p>
+
+        <form>
+            <label>Name:</label><br>
+            <input type="text"><br><br>
+
+            <label>Email:</label><br>
+            <input type="email"><br><br>
+
+            <label>Message:</label><br>
+            <textarea></textarea><br><br>
+
+            <input type="submit" value="Send">
+        </form>
+
+    </div>
+
+    <div id="footer" class="border-unity">
+
+        <div id="contact">
+            <h3 class="got">Contact Info</h3>
+            <p>Email: raven@westeros.com</p>
+        </div>
+
+        <div id="social">
+            <h3 class="got">Follow Us</h3>
+
+            <div id="foot-link-container">
+                <a href="#" class="social-link">
+                    <img src="images/logo-twitter.png" class="foot-img" width="30">
+                </a>
+
+                <a href="#" class="social-link">
+                    <img src="images/logo-insta1.png" class="foot-img" width="30">
+                </a>
+
+                <a href="#" class="social-link">
+                    <img src="images/logo-snap.png" class="foot-img" width="30">
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

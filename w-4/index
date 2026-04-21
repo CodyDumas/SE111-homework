@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Student Name">
+    <meta name="description" content="A home page introducing two favorite movies: Good Will Hunting and Dead Poets Society">
+    <title>My Favorite Movies</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="container">
+
+    <hr>
+
+    <div id="header">
+        <h1>My Favorite Movies</h1>
+    </div>
+
+    <div id="nav">
+        <a href="index.html">Home</a>
+        <a href="cast.html">Cast</a>
+        <a href="review.html">Review</a>
+    </div>
+
+    <hr>
+
+    <div id="content">
+
+        <h2>Home</h2>
+
+        <div>
+
+            <div class="movie-section clearfix">
+
+                <h3><em>Good Will Hunting</em></h3>
+
+                <div class="poster-wrap">
+                    <img src="images/goodwillhunting-poster.jpg" alt="Good Will Hunting movie poster">
+                </div>
+
+                <p>
+                    <em>Good Will Hunting</em> is a 1997 drama directed by Gus Van Sant. The film follows Will Hunting, a young janitor at MIT who is secretly a mathematical genius. When his talent is discovered, he is pushed to work with a therapist and a professor, forcing him to confront his troubled past and decide what he really wants out of life. The movie is both a story about raw intellect and about the emotional walls people build to protect themselves from being hurt.
+                </p>
+
+                <div class="info">
+                    <p><b>Company Credits:</b> Miramax Films, Be Gentlemen Limited Partnership</p>
+                    <p><b>Release Date:</b> December 5, 1997</p>
+                    <p><b>Genres:</b> Drama, Romance</p>
+                    <p><b>Rating:</b> R</p>
+                    <p><b>Running Time:</b> 126 minutes</p>
+                </div>
+
+            </div>
+
+            <div class="movie-section clearfix">
+
+                <h3><em>Dead Poets Society</em></h3>
+
+                <div class="poster-wrap">
+                    <img src="images/deadpoetssociety-poster.jpg" alt="Dead Poets Society movie poster">
+                </div>
+
+                <p>
+                    <em>Dead Poets Society</em> is a 1989 drama directed by Peter Weir. Set at the fictional Welton Academy, a strict all-boys preparatory school in Vermont, the film follows a group of students whose lives are changed by their new English teacher, John Keating. Keating encourages his students to think for themselves, embrace poetry, and seize the day. The film is a moving exploration of conformity, passion, and the cost of following your own voice in a world that demands silence.
+                </p>
+
+                <div class="info">
+                    <p><b>Company Credits:</b> Touchstone Pictures, Silver Screen Partners IV</p>
+                    <p><b>Release Date:</b> June 2, 1989</p>
+                    <p><b>Genres:</b> Drama</p>
+                    <p><b>Rating:</b> PG</p>
+                    <p><b>Running Time:</b> 128 minutes</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <hr>
+
+    <div id="footer">
+        <a href="#header">Back to Top</a>
+        <img src="images/validation-index.png" alt="W3C Validation screenshot for index.html">
+    </div>
+
+</div>
+
+</body>
+</html>

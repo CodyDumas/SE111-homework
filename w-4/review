@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Student Name">
+    <meta name="description" content="Movie reviews for Good Will Hunting and Dead Poets Society">
+    <title>Review</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="container">
+
+    <hr>
+
+    <div id="header">
+        <h1>My Favorite Movies</h1>
+    </div>
+
+    <div id="nav">
+        <a href="index.html">Home</a>
+        <a href="cast.html">Cast</a>
+        <a href="review.html">Review</a>
+    </div>
+
+    <hr>
+
+    <div id="content">
+
+        <h2>Review</h2>
+
+        <div>
+
+            <div class="review-section">
+
+                <h3><em>Good Will Hunting</em></h3>
+
+                <p><b>Student Name</b></p>
+                <p><i>April 21, 2026</i></p>
+
+                <p>
+                    <em>Good Will Hunting</em> is one of those films that stays with you long after it ends. At its surface it is a story about a genius who works as a janitor, but underneath it is really about fear and the way people sabotage themselves to avoid getting hurt. Matt Damon gives a remarkable performance as Will, someone who is capable of almost anything but cannot bring himself to trust the people around him. The chemistry between him and Robin Williams is the heart of the entire movie.
+                </p>
+
+                <p>
+                    What makes <em>Good Will Hunting</em> so effective is that the screenplay, written by Damon and Ben Affleck, never feels like it is trying too hard. The dialogue is sharp and natural, and the emotional moments earn their weight. The scene in the park between Will and Sean is one of the most powerful in American cinema from that decade. If you have never seen it, it is absolutely worth your time.
+                </p>
+
+                <p>
+                    <a href="https://www.imdb.com/title/tt0119217/" target="_blank">View <em>Good Will Hunting</em> on IMDB</a>
+                </p>
+
+                <div class="info">
+                    <h3>Trivia</h3>
+                    <ul>
+                        <li>Matt Damon and Ben Affleck sold the script on the condition that they would both star in the film.</li>
+                        <li>Robin Williams improvised the story about his wife's flatulence during the park bench scene, which caused Matt Damon to break character and laugh.</li>
+                        <li>The math problem shown in the film is based on a real unsolved problem in combinatorics.</li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="review-section">
+
+                <h3><em>Dead Poets Society</em></h3>
+
+                <p><b>Student Name</b></p>
+                <p><i>April 21, 2026</i></p>
+
+                <p>
+                    <em>Dead Poets Society</em> is a film that asks a simple but important question: what happens when someone teaches you to think for yourself in a world that does not want you to? Set in a conservative boarding school in 1959, the film follows a group of students who are inspired by their unconventional English teacher, Mr. Keating, played brilliantly by Robin Williams. His energy and passion for literature feel completely genuine, and it is easy to understand why the students are so drawn to him.
+                </p>
+
+                <p>
+                    The film does not have a happy ending, and that is exactly why it works. <em>Dead Poets Society</em> is honest about the cost of nonconformity, especially for young people who are still dependent on the adults in their lives. Ethan Hawke is quietly excellent as Todd, and his growth over the course of the film is one of the most satisfying arcs in the movie. The final scene is unforgettable and still gives me chills every time I watch it.
+                </p>
+
+                <p>
+                    <a href="https://www.imdb.com/title/tt0097165/" target="_blank">View <em>Dead Poets Society</em> on IMDB</a>
+                </p>
+
+                <div class="info">
+                    <h3>Trivia</h3>
+                    <ul>
+                        <li>The film was shot at St. Andrew's School in Middletown, Delaware, an actual prep school founded in 1929.</li>
+                        <li>Robin Williams largely improvised many of his classroom scenes, and the boys' laughter in those scenes is often genuine.</li>
+                        <li>The phrase "O Captain! My Captain!" comes from a Walt Whitman poem written as an elegy for Abraham Lincoln after his assassination.</li>
+                    </ul>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <hr>
+
+    <div id="footer">
+        <a href="#header">Back to Top</a>
+        <img src="images/validation-review.png" alt="W3C Validation screenshot for review.html">
+    </div>
+
+</div>
+
+</body>
+</html>
